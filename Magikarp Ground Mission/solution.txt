@@ -1,0 +1,20 @@
+First what you'll wanna do is press on the "launch instance" button and use the information the website gave 
+to you to ssh into the machine.
+
+You do that by pulling up a terminal and typing this command ssh ctf-player@<adressoftheserver> -p <port given to you>
+After that you press enter ad it will ask you for your password which would also be given to you.
+
+Pull up an external text editor as this will be useful to store parts of the flag.
+Use cat to read the file in the current directory this will give you the first part of the flag which you might wanna note down in the external text editor you pulled up earlier.
+
+Second, use "cat /2of3.flag.txt" and note what you find down
+
+Lastly, use "cat ./3of3.flag.txt" to read the third part of the flag and note it down.
+
+Now all you have to do is stick the piece of the flag together and submit them
+
+
+
+
+
+Link for the CTF : https://play.picoctf.org/practice/challenge/189
