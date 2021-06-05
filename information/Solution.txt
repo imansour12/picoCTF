@@ -1,0 +1,7 @@
+Step 1 : wget the picture of the cat
+Step 2 : Use exiftool to see the metadata
+Step 3 : Take the license of the image and put it in a base 64 decoder 
+
+link for challenge: https://play.picoctf.org/practice/challenge/186
+
+link for base 64 decoder: https://www.base64decode.org/ 

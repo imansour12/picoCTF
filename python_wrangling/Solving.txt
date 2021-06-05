@@ -1,0 +1,8 @@
+iHow I solved this:
+First: Wget all the project files (The python script, the password and the flag)
+Second: Change the flag's extension to .txt
+Third: enter this command: python ende.py -d pole.txt
+Fourth: Enter the password found in pw.txt
+
+
+Link to the CTF challenge: https://play.picoctf.org/practice/challenge/166

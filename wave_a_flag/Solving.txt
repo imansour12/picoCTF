@@ -1,0 +1,7 @@
+Step 1 : Open the file given with vim
+Step 2 : You'll find it
+
+
+
+
+Problem link: https://play.picoctf.org/practice/challenge/170

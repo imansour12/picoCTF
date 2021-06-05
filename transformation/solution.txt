@@ -1,0 +1,9 @@
+This may look complicated at first but it is actually pretty simple.
+What you do is download the enc file and change its extension to .txt
+You will get a weird chinese string
+use python to .encode it in utf-16-be and you should get the flag.
+Additionally, you may also use cyberchef on the magic setting to get the flag from the chinese string.
+
+
+Link to cyberchef: http://icyberchef.com/
+Here's the link to the exerxise thingy: https://play.picoctf.org/practice/challenge/104

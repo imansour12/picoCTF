@@ -1,0 +1,7 @@
+Step one: put in the command given in the prompt: nc mercury.picoctf.net 43239
+Step two: Either use an online ASCII converter or do it yourself by holding alt and plugging in the numbers.
+
+
+Link for problem: https://play.picoctf.org/practice/challenge/156
+Link to learn more about netcat: https://www.win.tue.nl/~aeb/linux/hh/netcat_tutorial.pdf
+Link to ascii converter: http://www.unit-conversion.info/texttools/ascii/
