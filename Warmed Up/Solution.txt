@@ -1,0 +1,7 @@
+In this exercise we have to convert a base-16 number which is another word for hexadecimal into a base-10 number which is another word for decimal. 
+You can use an online coverter for this.
+When you get the number make sure to format it in this way so that it is valid to be submitted as a flag:
+picoCTF{<number you found>}
+
+Hexadecimal to Decimal online coverter: https://www.rapidtables.com/convert/number/hex-to-decimal.html
+Link to the CTF: https://play.picoctf.org/practice/challenge/58
