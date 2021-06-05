@@ -1,0 +1,10 @@
+First thing you'll wanna do is use the strings command to explore any printable characters in the file. 
+However, the output will be kind of long so add a bigger than button (">") followed by something like output.txt
+or the name of the file you want to output the results to. In the end your command will look something like this:
+"strings <filename> > output.txt"
+
+Use vim or your favorite text editor and search for pico which will show you our flag.
+
+
+Link to the CTF exercise: https://play.picoctf.org/practice/challenge/37
+Link tolearn more about strings: https://linux.die.net/man/1/strings
