@@ -1,0 +1,6 @@
+First, Wget all the files, the bash script and the static file 
+Use the command 'mv static static.txt" and use cat or vim to read the file
+Use the search command in vim and search for "pico" and you should fine the flag
+
+
+The CTF exercise link: https://play.picoctf.org/practice/challenge/163
