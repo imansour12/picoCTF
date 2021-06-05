@@ -1,0 +1,6 @@
+First, use wget to get the zip file provided by the game
+Second , use the unzip command to unzip the zip file
+Use the cd command and tab to cd into the last directory available
+Change the extension of the file you find to .txt and dig a little through it to find your flag
+
+Link for the CTF thingy: https://play.picoctf.org/practice/challenge/176
