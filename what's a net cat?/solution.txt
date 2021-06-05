@@ -1,0 +1,10 @@
+You may use netcat's cheat sheet which I have linked below to use netcat. However, you won't need most of the stuff on that sheet for this one.
+
+Just use ths command : "nc <server adress> <port number>"
+You will be provided with those pieces of data.
+
+After this, the server should return your flag which you can simply copy paste into the submit box.
+
+
+Link to netcat cheat sheet: https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
+Link to the CTF exercise: https://play.picoctf.org/practice/challenge/34
