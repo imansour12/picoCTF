@@ -1,0 +1,9 @@
+This one is pretty easy. You can plug in 0x70 into an online converter and you'll get the letter "p".
+Then you can just put it in a flag formate like this : picoCTF {p}
+
+
+
+Link to hexadeciaml converter: https://onlinehextools.com/convert-hex-to-ascii
+Link to the CTF exercise: https://play.picoctf.org/practice/challenge/22
+
+If you wanna do this by hand without an online converter there's this very helpful chart "https://lh3.googleusercontent.com/proxy/OrGUDhwx9dRHvA1Aosabho6iScLVB5ik9PaWRYUZqMMs-sqKk86i7Kg9ftcsk-VrmJue1ohBCx8mNAec5s6HtNNba4Q_5gU_M7CndZxxp2M2IpJ11dnz2FwAjCL9QeFlMPVlXOpwDSyrgvywoFqbQUA3k6g"
