@@ -1,0 +1,9 @@
+Wget the file given to you in the picoCTF exercise.
+You can use vim or grep to display all printable chracters in the file.
+In vim you can go into command mode and use "/"and search for the word "pico" .
+In grep you can do this by typing this command : "grep "pico" file"  
+
+
+
+Link to CTF exercise: https://play.picoctf.org/practice/challenge/85
+Tutorial for grep: https://ryanstutorials.net/linuxtutorial/grep.php
