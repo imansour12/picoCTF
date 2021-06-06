@@ -1,0 +1,10 @@
+First all, you don't really have much time to solve all the problems ou get given.
+So first of all, you might wanna have a binary to text converter, an octal to text converter as well as a hexadecimal to text converter too.
+Next, use the netcat command given to you in the exercise to connect.
+Answer all the questions given to you by the server whihch you connected to through netcat and if everything is answered correctly, it should return your flag.
+PS: Make sure to format your flag correctly.
+
+Link to CTF exercise: https://play.picoctf.org/practice/challenge/35
+Hexadecimal to text converter: https://www.rapidtables.com/convert/number/hex-to-ascii.html
+Binary to text converter: https://www.rapidtables.com/convert/number/binary-to-ascii.html
+Octal to text converter: https://v2.cryptii.com/octal/text
