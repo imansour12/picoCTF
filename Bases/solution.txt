@@ -1,0 +1,6 @@
+In this exercise, you have to convert the base 64 format into normal characters. You may use an online converter for this.
+
+Link to online converter: https://www.base64decode.org/
+
+
+Link to the CTF exercise: https://play.picoctf.org/practice/challenge/67
