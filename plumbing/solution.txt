@@ -1,0 +1,14 @@
+Use netcat to connect to the server and port.
+Your command should look something like this: "nc <server_name> <server_port>"
+
+However, when you run this, you may notice that the output is too long to seach through.
+To fix this, we'll need to store the output in a text file using this symbol: ">"
+Your command will look something like this:
+"nc <server_name> <server_port> > output.txt"
+
+Next, we'll open the output.txt file which we have just created in vim and search for the word "pico" which is the first word in the flag. To do this we'll use the "/" command followed by what you're searching for.
+This is what your command should look like:
+"/pico"      
+
+
+Link to the CTF exercise: https://play.picoctf.org/practice/challenge/48
