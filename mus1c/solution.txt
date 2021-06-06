@@ -1,0 +1,7 @@
+This song is written in the Rockstar language, there are a bunch of online inerpreters. You should just paste the song and it will give you an ASCII ouput. There are two ways to go about this. You could either hold alt and type in the numbers and put them in the picoCTF flag format or you could just use an online ascii converter. 
+
+
+
+Link to ASCII to text converter: http://www.unit-conversion.info/texttools/ascii/
+Link to online ROKCSTAR interpreter: https://codewithrockstar.com/online
+Link to the CTF exercise: https://play.picoctf.org/practice/challenge/15
