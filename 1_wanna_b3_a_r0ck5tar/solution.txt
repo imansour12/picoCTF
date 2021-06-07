@@ -1,0 +1,12 @@
+First you'll wanna wget the song.
+If you read through it, you will see many verbs like: "Listen to the music", "Listen to the rhythm". As well as some if statemnts like "If the music is a guitar" and ""Else Whisper "That ain't it, Chief" .
+
+You'll wanna remove all those statements. Next you should get an output when putting it in the online rockstar language interpreter with a bunch of ASCII numbers.
+You may paste these in an online converter and translate them into text "http://www.unit-conversion.info/texttools/ascii/". You can also hold alt and type them in manually.
+In both casees make sure you put your answer in the pico CTF flag format. 
+
+Like this: picoCTF{output}
+
+Rockstar interpreter: https://codewithrockstar.com/online
+ASCII to text converter: http://www.unit-conversion.info/texttools/ascii/
+Link for the CTf exercise: https://play.picoctf.org/practice/challenge/82
