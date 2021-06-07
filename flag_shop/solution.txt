@@ -1,0 +1,12 @@
+First wget the source codefrom the exercise.
+Go ahead and use the netcat command given to connect to the server.
+You might notice that you do not have enough balance to buy an actual flag.
+So how will we trick the system into thinking we have enough balance to buy a flag? 
+If you look at the source code, you can see that the total cost is stored as a four byte integer.
+The maximum value that a four byte integer can store is "2,147,483,647". After this, the number turns negative. I think you can see where we're going here. We need to input a value big enough so that it turns the price of the "Defintely not the flag Flag" into a ngative number. When we buy this, our balance will be not be decreased but increased. After this, we'll be able to afford the "1337 flag"
+
+The value which we want to be negative is the total_cost variable. For this, we'll need a big enough number to multiply by 900 to surpass the 4 byte signed integer limit. For this I used the number 2388888.
+Now, your balance will be very high and you can use that to choose the second option and buy your actual flag.    
+
+
+Link to the CTF exercise: https://play.picoctf.org/practice/challenge/49
