@@ -1,0 +1,8 @@
+Wget the image from the prompt into your system and use the unzip command followed by the image. This will create a folder with another image. Unzip that one too, you'll get another imag.
+Keep doing this until you are left with a flag.txt file.
+
+In this file, every character is seperated by a by an unrecignized symbol.
+All you have to do is remove that and input the flag.
+
+
+Link to the CTF exercise: https://play.picoctf.org/practice/challenge/129
