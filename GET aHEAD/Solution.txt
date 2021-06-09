@@ -1,0 +1,12 @@
+First of all, visit the website given to you in the exercise.
+From the weird name of the exercise we can assume that out flag is somewhere in the <head> part of the html.
+
+So what we'll do is we will used the "curl" tool to make a get request for the webpage but we only want the head  back. 
+
+So your command will look something like this:
+curl -I <webpagegiveninthepicoctf>
+
+You will get back the head and your flag will be in it
+
+
+Link to the CTF: https://play.picoctf.org/practice/challenge/132
