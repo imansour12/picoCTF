@@ -1,0 +1,12 @@
+First of all, open the website in your browser and check the coockies that come with the website.
+The "coockie" got my attention as it changed depending what i put in the box. 
+So what I did next was go into devtools or used the inspect element and went into the application tab. (Assuming you're on chrome)
+I then went into the coockies option ansd changed the name's value to 2.
+When I refreshed the page, I got a different output. 
+So I kept increasing the number and the output kept changing.
+Finally, when the number was 18, the website displayed my flag.
+
+
+
+
+Link to the CTF challenge: https://play.picoctf.org/practice/challenge/173
