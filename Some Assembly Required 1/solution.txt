@@ -1,0 +1,7 @@
+So first of all, open up the html source code of the page. On the top of the file you will find a link to javascript file and in that javacript file you will need find a const declaration. One of the words in there, will be a directory. In my case this was './JIFxzHyW8W' but I don't know if it will be different for other people.
+So what you'll do is acesss the website and add the directory at the end of the link. Like this:
+<link to the website><directory>
+Next, you'll automatically download a file. Go ahead and open this file with vim and you should be able to find your flag in the bottom of the file
+
+
+Link to the CTF challenge: https://play.picoctf.org/practice/challenge/152
