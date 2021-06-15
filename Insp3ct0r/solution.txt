@@ -1,0 +1,8 @@
+First of all, go ahead and connect to the website.
+Next, use CTRL + U to view the inspect element page. This will show the HTML markup behind the page. In the end of the file, you'll see the first part of your flag as a comment.
+To find the second flag, we must inspect the css fiel for the webpage.
+You can either naviagte devtools to find this or you can find the link to the css file in the <head> tag of the html file at the top of the source code. You'll find the second part of your flag in the bottom of the css file as a comment. Last but not least, for the last part of your flag you'll wanna go back to the html source code page and go to the javascript file which, like the css file, you'll find in the head tag. Again, you'll find the flag at the end of the javascript file marked as a comment.
+Finally, put all the bits you found together and submit them in one chunk of text as a flag.
+
+
+Link to the CTF challenge: https://play.picoctf.org/practice/challenge/18
