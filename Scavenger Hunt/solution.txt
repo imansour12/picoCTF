@@ -1,0 +1,15 @@
+First of all, you'll wanna view the HTML source code by using CTRL+U. When you scroll a bit we'll find the first part of our flag in a comment. Just copy that into your notepad and let's get to the second part.
+
+For the second part, let's view the css file from the webpage which you will propably find linked in the header of the html file. In here, once again, we'll find the second part of ourflag. Go ahead and paste that too in your notepad.
+
+Now the logical next step in this case would be to get the third part of the flag from the JS file which is also linked in the html head tag. However, we can see that it is not there. Instead, there is a comment at the bottom of the file. It says "How can I keep Google from indexing my website?". The answer for this is a "robots.txt" file. So let's check if the server does in fact have that file. So if we type in the URL given by the exercise and add a "/robot.txt" at the end of it. We will get the third part of our flag. Copy that too and paste it in your notepad.
+
+In the last time we looked at our flag, we had a message in the "robots.txt" article that this was an apache server. The fact that the file mentioned that it was an Apache server leadsme to think that there is something special about apache. This is the "/.htaccess" file. So let's go to that by typing the url of the website like we did before followed by "/.htaccess". In here you'll find the fourth part of the flag which you should just add into the notepad.
+
+Now for the fifth and last part you should have recognized why the first letter of store was capitalized. It is a refernce to the .DS_Store hidden file on mac OS systems. So what we'll do is add '.DS-Store' at the end of the url. This way, we get the fifth part of the flag. 
+
+
+Last but not least, just attach all the pieces of the flag together and submit them.
+
+
+Link to the CTF challenge: https://play.picoctf.org/practice/challenge/161
